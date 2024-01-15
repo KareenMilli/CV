@@ -12,6 +12,9 @@ tooltip.innerText = percentage + '%';
 bar.style.width = percentage + '%';
 })
 
+//just a comment 
+
+
 const counters = document.querySelectorAll('.counter');
 console.log(counters);
 function runCounter (){
